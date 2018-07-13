@@ -1,0 +1,10 @@
+{
+	"name" : "The Stairs",
+	"description" : "You are standing on a set of stairs having just entered the department. It is a narrow corridor leading down towards a landing.",
+	"directions" : "Bellow you is a landing.\nAbove you is the entrance to the building.",
+	"neighbors" : 
+	{
+		"up" : "entrance",
+		"down" : "bar"
+	}
+}

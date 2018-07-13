@@ -1,0 +1,9 @@
+{
+	"name" : "The Bar Counter",
+	"description" : "You are standing in the massive line at the Bar counter. It would seem the lunch lady has only one of the toasters fired up, even though its rush hour. Still everyone seems to be ordering toast, so the line isn't moving at all.",
+	"directions" : "To your South is the Bar.",
+	"neighbors" : 
+	{
+		"south" : "bar"
+	}
+}

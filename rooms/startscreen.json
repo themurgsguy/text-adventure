@@ -1,0 +1,9 @@
+{
+	"name" : "Welcome to the METANOVEL",
+	"description" : "This is a tech development demo for an interactive meta fiction adventure that is to come.",
+	"directions" : "INSTRUCTIONS\n\n- Type 'north' to go North.\n- Type 'south' to go South.\n- Type 'east' to go East.\n- Type 'west' to go West.\n- Type 'up' to go Up.\n- Type 'down' to go Down.\n- To Quit the game type 'quit\n\nType 'north' now to begin the adveture.",
+	"neighbors" : 
+	{
+		"north" : "stairs"
+	}
+}

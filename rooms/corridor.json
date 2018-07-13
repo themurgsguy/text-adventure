@@ -1,0 +1,10 @@
+{
+	"name" : "The Corridor",
+	"description" : "You make your way down the main Corridor that leads to the Towers. It is dark here but halfway through the Corridor a set of lights suddently turn on, temporarilly blinding you.",
+	"directions" : "To your North is Tower C, the first of the three towers.\nTo your South is the Bar.",
+	"neighbors" : 
+	{
+		"north" : "tower_c",
+		"south" : "bar"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name" : "The Bar",
+	"description" : "You are standing in the Bar, the common area of DEItizens. It is quite crowded at this time, as a line of people extends from the Bar Counter — awaiting service — and all the tables are filled with burnt out looking students.",
+	"directions" : "To your North is the Bar Counter.\nTo your East is the main Corridor.\nTo your West are the Stairs.\nAnd to your South is an Elevator.",
+	"neighbors" : 
+	{
+		"north" : "bar_counter",
+		"south" : "elevator",
+		"east" : "corridor",
+		"west" : "stairs"
+	}
+}

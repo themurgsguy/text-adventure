@@ -1,0 +1,9 @@
+{
+	"name" : "The Elevator",
+	"description" : "You are standing in front of the Elevator. Technically you would be able to go down to the lobby, or up to the old library entrance, but the damn thing is still broken it seems.",
+	"directions" : "To your South is the Bar.",
+	"neighbors" : 
+	{
+		"south" : "bar"
+	}
+}

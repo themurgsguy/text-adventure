@@ -1,0 +1,10 @@
+
+{
+	"name" : "The Entrance",
+	"description" : "You are now back at the entrance to the building. For a moment you ponder leaving this place for good, maybe persue a new life as a potato farmer, or something of the sort. Yet you can't bring yourself to step outside.",
+	"directions" : "To your South are the stairs you started on.",
+	"neighbors" : 
+	{
+		"south" : "stairs"
+	}
+}
